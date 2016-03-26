@@ -27,7 +27,7 @@ from collections import OrderedDict
 
 class LRUCache(object):
 
-    def __init__(self, size=100):
+    def __init__(self, size=1024):
         self.size = size
         self.cache = OrderedDict()
 
