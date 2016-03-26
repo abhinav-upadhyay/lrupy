@@ -2,12 +2,14 @@ from distutils.core import setup
 
 setup(
     name = "lrupy",
+    packages = ['lrupy'],
     version = "0.1",
     py_modules=['lrupy'],
-    description = "A simpley (LRU) cache implementation",
+    description = "A simple in-memory (LRU) cache implementation",
     author = "Abhinav Upadhyay",
     author_email = "er.+abhinav.+updadhyay@gmail.com",
     url = "https://github.com/abhinav-upadhyay/lrupy",
+    keywords=['development', 'cache', 'performance'],
     classifiers = [
         "Programming Language :: Python :: 2.6",
         "Programming Language :: Python :: 2.7",
