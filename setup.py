@@ -9,7 +9,7 @@ setup(
     author="Abhinav Upadhyay",
     author_email="er.+abhinav.+updadhyay@gmail.com",
     url="https://github.com/abhinav-upadhyay/lrupy",
-    download_url="https://github.com/abhinav-upadhyay/lrupy/archive/0.2.tar.gz",
+    download_url="https://github.com/abhinav-upadhyay/lrupy/archive/0.3.tar.gz",
     keywords=['development', 'cache', 'performance'],
     license='BSD',
     classifiers=[
