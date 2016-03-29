@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name="lrupy",
     packages=['lrupy'],
-    version="0.2",
+    version="0.3",
     py_modules=['lrupy.lrupy'],
     description="A simple in-memory (LRU) cache implementation",
     author="Abhinav Upadhyay",
